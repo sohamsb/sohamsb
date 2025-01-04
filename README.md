@@ -16,7 +16,7 @@ Data Management: Relational DBMS (SQL Developer, SAP HANA Studio, DBeaver, SQL S
 
 Deloitte Consulting India Pvt. Ltd. | Bengaluru, Karnataka, India
 
-## Education:
+## Education
 
 Master of Science | Business Analytics | The University of Texas at Austin, Austin, Texas, USA
 
